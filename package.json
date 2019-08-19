@@ -1,0 +1,22 @@
+{
+  "name": "spreadsheet_node",
+  "version": "1.0.0",
+  "description": "read google spreadsheet with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qkrwltn8976/spreadsheet_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qkrwltn8976/spreadsheet_node/issues"
+  },
+  "homepage": "https://github.com/qkrwltn8976/spreadsheet_node#readme",
+  "dependencies": {
+    "google-spreadsheet": "^2.0.7"
+  }
+}
